@@ -1,0 +1,53 @@
+* The OpenCreativity Manefisto 
+* What is OpenCreativity?
+OpenCreativity sole goal is to be the interoperability layer between _creative_ free & open source applications, Unlike Adobe where there is cohesion between applications, in FOSS applications, there is a lack of interoperability that's holding back the applications, OpenCreativity goal is to tackle this problem.
+* Table of contents :TOC:
+* The Adobe problem
+If you already know why Adobe is morally questionable you can skip to the solution part.
+*** Introduction
+In the digital creative space, Adobe is the main company "selling" creative applications like the popular Adobe Photoshop or Adobe Illustrator, Adobe has been critiqued for many unethical practices, some of which are documented below.
+*** Subscription-only model
+In 2013 Adobe went from selling to a full licensing model to massive community outcry[fn:1] [fn:2], having a subscription only model is a big disservice for students and non-professionals who most always can't afford to license such software for their endevors[fn:2], a byproduct of the model is the not having the ability to access files from proprietary file formats[fn:3]
+*** Adobe monopoly status
+Adobe is a monopoly with software like Photoshop with *90%*[fn:4] marketshare, therefore they can price their products however they like and they have done so[fn:5], they also buy competitors like Figma[fn:6] to preserve their market dominance instead of competing.
+*** Software Patents use
+As a company, Adobe holds multiple software patents for application specific features like "Image foreground detection"[fn:7] or "GUI Locking"[fn:8] etc, this is regarded as unethical by many people[fn:1] by the fact that this legally prevents competitors from implementing the same features.
+*** Anti-patterns
+Adobe has been accused of tricking customers into a 12 month month contract[fn:9], Adobe enrolling users into the subscription model using the free trial[fn:10], charging a subscription cancellation fee[fn:11], etc[fn:12].
+* The Solution
+As i have said before OpenCreativity sole goal is to be the interoperability layer between creative free & open source applications, here is a roadmap on how we can do that.
+** Phase 1, reproducible scripts
+Reproducible scripts are scripts using Nix that don't have the problem of "It works in my machine", therefore simplifying the distribution and connecting applications that are already interoperable (with plugins) like Darktable with GIMP.
+** Phase 2, Interopebility plugins
+Once we have written all the scripts we can move to creating (and mantaining) plugins between applications that don't have them so that they can communicate and work together seamlessly.
+** Phase 3, maintain friendly forks
+If the previous phases aren't enough, we can then fork and have small necessary changes to achieve our goals like a consistent UI.
+* How to help
+** Donate
+You can donate here:
+- Liberapay: https://liberapay.com/OpenCreativity/
+- Buymeacoffee: https://www.buymeacoffee.com/schola
+** Volunteering
+If you are interested in the project, I can add you as a member of the organization, open a GitHub issue and we can discuss.
+* Accepted Applications
+Others can be discussed in Github Discussions.
+| Adobe          | Photoshop | Illustrator |
+| OpenCreativity | GIMP      | Darktable   |
+* Footnotes
+[fn:1]: [[https:https://www.forbes.com/sites/adriankingsleyhughes/2013/05/09/adobes-creative-cloud-move-causes-outcry-and-confusion/?sh=74de7df26925][Adobe's Creative Cloud Move Causes Outcry And Confusion]]
+[fn:2]: [[https:https://wedesignstudios.com/why-adobes-subscription-only-plan-sucks][Why Adobe's Subscription-Only Plan Sucks]] 
+[fn:3]: [[https:https://www.columbian.com/news/2013/jun/02/adobe-casts-cloud-on-budgets/][Adobe casts cloud on budgets]] 
+[fn:4]: [[https:https://zipdo.co/statistics/adobe-photoshop/][Essential Adobe Photoshop Statistics in 2023]] 
+[fn:5]: [[https:https://www.booknetcanada.ca/blog/2017/12/6/this-is-fine-on-the-cost-of-creative-cloud][‘This is fine’: On the cost of Creative Cloud]]
+[fn:6]: [[https:https://www.bloomberg.com/news/articles/2022-09-15/adobe-is-said-to-near-deal-to-buy-online-design-startup-figma][Adobe Near Deal for Online Design Startup Figma, Sources Say]] 
+[fn:7]: [[https:https://patents.google.com/patent/US9299004B2/en?oq=US9299004B2 ][Image foreground detection]]
+[fn:8]: [[https:https://patents.google.com/patent/US10061496B2/en?oq=US10061496b2][Snapping of object features via dragging]]
+[fn:9]:  [[https:https://twitter.com/darkpatterns/status/1489901640777973768#m][How Adobe tricks users into a 12 month contract.]]
+[fn:10]: [[https:https://nitter.net/MikeCalcagno/status/1676525562930806788#m][Adobe enrolls users into the subscription model using free trial]]
+[fn:11]: [[https:https://web.archive.org/web/20230227031707/https://twitter.com/MRDADDGUY/status/1381628427246039045][Adobe charges subscription cancellation fee]]
+[fn:12]: [[https:https://nitter.net/cabel/status/1552409998684086273#m][Adobe interupts users with large pop-up ad they press "Save" in Adobe illustrator, a product they have already paid for.]] 
+
+** Extra links
+- Deadobe: https://github.com/scholablade/Deadobe
+- Adobe-related video: https://www.youtube.com/watch?v=jIM6dN3ogbk
+- Adobe Deceptive patterns: https://www.deceptive.design/hall-of-shame?*=adobe
