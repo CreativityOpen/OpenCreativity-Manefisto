@@ -1,7 +1,24 @@
-* The OpenCreativity Manefisto 
 * What is OpenCreativity?
 OpenCreativity sole goal is to be the interoperability layer between _creative_ free & open source applications, Unlike Adobe where there is cohesion between applications, in FOSS applications, there is a lack of interoperability that's holding back the applications, OpenCreativity goal is to tackle this problem.
-* Table of contents :TOC:
+* Table of contents :TOC_3:
+- [[#what-is-opencreativity][What is OpenCreativity?]]
+- [[#the-adobe-problem][The Adobe problem]]
+    - [[#introduction][Introduction]]
+    - [[#subscription-only-model][Subscription-only model]]
+    - [[#adobe-monopoly-status][Adobe monopoly status]]
+    - [[#software-patents-use][Software Patents use]]
+    - [[#anti-patterns][Anti-patterns]]
+- [[#the-solution][The Solution]]
+  - [[#phase-1-reproducible-scripts][Phase 1, reproducible scripts]]
+  - [[#phase-2-interopebility-plugins][Phase 2, Interopebility plugins]]
+  - [[#phase-3-maintain-friendly-forks][Phase 3, maintain friendly forks]]
+- [[#how-to-help][How to help]]
+  - [[#donate][Donate]]
+  - [[#volunteering][Volunteering]]
+- [[#accepted-applications][Accepted Applications]]
+- [[#footnotes][Footnotes]]
+  - [[#extra-links][Extra links]]
+
 * The Adobe problem
 If you already know why Adobe is morally questionable you can skip to the solution part.
 *** Introduction
@@ -11,7 +28,7 @@ In 2013 Adobe went from selling to a full licensing model to massive community o
 *** Adobe monopoly status
 Adobe is a monopoly with software like Photoshop with *90%*[fn:4] marketshare, therefore they can price their products however they like and they have done so[fn:5], they also buy competitors like Figma[fn:6] to preserve their market dominance instead of competing.
 *** Software Patents use
-As a company, Adobe holds multiple software patents for application specific features like "Image foreground detection"[fn:7] or "GUI Locking"[fn:8] etc, this is regarded as unethical by many people[fn:1] by the fact that this legally prevents competitors from implementing the same features.
+As a company, Adobe holds multiple software patents for application specific features like "Image foreground detection"[fn:7] or "GUI Locking"[fn:8] etc, this is regarded as unethical by many people by the fact that this legally prevents competitors from implementing the same features.
 *** Anti-patterns
 Adobe has been accused of tricking customers into a 12 month month contract[fn:9], Adobe enrolling users into the subscription model using the free trial[fn:10], charging a subscription cancellation fee[fn:11], etc[fn:12].
 * The Solution
@@ -25,7 +42,7 @@ If the previous phases aren't enough, we can then fork and have small necessary 
 * How to help
 ** Donate
 You can donate here:
-- Liberapay: https://liberapay.com/OpenCreativity/
+- Liberapay: https://liberapay.com/OpenCreativity
 - Buymeacoffee: https://www.buymeacoffee.com/schola
 ** Volunteering
 If you are interested in the project, I can add you as a member of the organization, open a GitHub issue and we can discuss.
@@ -35,16 +52,27 @@ Others can be discussed in Github Discussions.
 | OpenCreativity | GIMP      | Darktable   |
 * Footnotes
 [fn:1]: [[https:https://www.forbes.com/sites/adriankingsleyhughes/2013/05/09/adobes-creative-cloud-move-causes-outcry-and-confusion/?sh=74de7df26925][Adobe's Creative Cloud Move Causes Outcry And Confusion]]
-[fn:2]: [[https:https://wedesignstudios.com/why-adobes-subscription-only-plan-sucks][Why Adobe's Subscription-Only Plan Sucks]] 
-[fn:3]: [[https:https://www.columbian.com/news/2013/jun/02/adobe-casts-cloud-on-budgets/][Adobe casts cloud on budgets]] 
-[fn:4]: [[https:https://zipdo.co/statistics/adobe-photoshop/][Essential Adobe Photoshop Statistics in 2023]] 
+
+[fn:2]: [[https:https://wedesignstudios.com/why-adobes-subscription-only-plan-sucks][Why Adobe's Subscription-Only Plan Sucks]]
+
+[fn:3]: [[https:https://www.columbian.com/news/2013/jun/02/adobe-casts-cloud-on-budgets/][Adobe casts cloud on budgets]]
+
+[fn:4]: [[https:https://zipdo.co/statistics/adobe-photoshop/][Essential Adobe Photoshop Statistics in 2023]]
+
 [fn:5]: [[https:https://www.booknetcanada.ca/blog/2017/12/6/this-is-fine-on-the-cost-of-creative-cloud][‘This is fine’: On the cost of Creative Cloud]]
-[fn:6]: [[https:https://www.bloomberg.com/news/articles/2022-09-15/adobe-is-said-to-near-deal-to-buy-online-design-startup-figma][Adobe Near Deal for Online Design Startup Figma, Sources Say]] 
+
+[fn:6]: [[https:https://www.bloomberg.com/news/articles/2022-09-15/adobe-is-said-to-near-deal-to-buy-online-design-startup-figma][Adobe Near Deal for Online Design Startup Figma, Sources Say]]
+
 [fn:7]: [[https:https://patents.google.com/patent/US9299004B2/en?oq=US9299004B2 ][Image foreground detection]]
+
 [fn:8]: [[https:https://patents.google.com/patent/US10061496B2/en?oq=US10061496b2][Snapping of object features via dragging]]
+
 [fn:9]:  [[https:https://twitter.com/darkpatterns/status/1489901640777973768#m][How Adobe tricks users into a 12 month contract.]]
+
 [fn:10]: [[https:https://nitter.net/MikeCalcagno/status/1676525562930806788#m][Adobe enrolls users into the subscription model using free trial]]
+
 [fn:11]: [[https:https://web.archive.org/web/20230227031707/https://twitter.com/MRDADDGUY/status/1381628427246039045][Adobe charges subscription cancellation fee]]
+
 [fn:12]: [[https:https://nitter.net/cabel/status/1552409998684086273#m][Adobe interupts users with large pop-up ad they press "Save" in Adobe illustrator, a product they have already paid for.]] 
 
 ** Extra links
