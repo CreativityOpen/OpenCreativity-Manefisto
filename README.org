@@ -1,4 +1,4 @@
-* What is OpenCreativity?
+* What is OpenCreativity? :ignore:
 OpenCreativity sole goal is to be the interoperability layer between _creative_ free & open source applications, Unlike Adobe where there is cohesion between applications, in FOSS applications, there is a lack of interoperability that's holding back the applications, OpenCreativity goal is to tackle this problem.
 * Table of contents :TOC_3:
 - [[#what-is-opencreativity][What is OpenCreativity?]]
@@ -34,7 +34,7 @@ Adobe has been accused of tricking customers into a 12 month month contract[fn:9
 * The Solution
 As i have said before OpenCreativity sole goal is to be the interoperability layer between creative free & open source applications, here is a roadmap on how we can do that.
 ** Phase 1, reproducible scripts
-Reproducible scripts are scripts using Nix that don't have the problem of "It works in my machine", therefore simplifying the distribution and connecting applications that are already interoperable (with plugins) like Darktable with GIMP.
+Reproducible scripts are scripts using Nix so that we don't have the problem of "It works in my machine", therefore simplifying the distribution and connecting applications that are already interoperable (with plugins) like Darktable with GIMP.
 ** Phase 2, Interopebility plugins
 Once we have written all the scripts we can move to creating (and mantaining) plugins between applications that don't have them so that they can communicate and work together seamlessly.
 ** Phase 3, maintain friendly forks
@@ -52,7 +52,7 @@ Others can be discussed in Github Discussions.
 | OpenCreativity | GIMP      | Darktable   |
 * Footnotes
 [fn:1]: [[https:https://www.forbes.com/sites/adriankingsleyhughes/2013/05/09/adobes-creative-cloud-move-causes-outcry-and-confusion/?sh=74de7df26925][Adobe's Creative Cloud Move Causes Outcry And Confusion]]
-
+interoperability
 [fn:2]: [[https:https://wedesignstudios.com/why-adobes-subscription-only-plan-sucks][Why Adobe's Subscription-Only Plan Sucks]]
 
 [fn:3]: [[https:https://www.columbian.com/news/2013/jun/02/adobe-casts-cloud-on-budgets/][Adobe casts cloud on budgets]]
