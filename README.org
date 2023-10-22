@@ -1,7 +1,6 @@
-* What is OpenCreativity? :ignore:
-OpenCreativity sole goal is to be the interoperability layer between _creative_ free & open source applications, Unlike Adobe where there is cohesion between applications, in FOSS applications, there is a lack of interoperability that's holding back the applications, OpenCreativity goal is to tackle this problem.
+* What is OpenCreativity? :noexport:
+OpenCreativity sole goal is to be the interoperability layer between creative free & open source applications, Unlike Adobe where there is cohesion between applications, in FOSS applications, there is a lack of interoperability that's holding back the applications, OpenCreativity goal is to tackle this problem.
 * Table of contents :TOC_3:
-- [[#what-is-opencreativity][What is OpenCreativity?]]
 - [[#the-adobe-problem][The Adobe problem]]
     - [[#introduction][Introduction]]
     - [[#subscription-only-model][Subscription-only model]]
