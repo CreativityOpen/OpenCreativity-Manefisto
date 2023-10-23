@@ -47,8 +47,8 @@ I would really appreciate donations, it would help me spend more time on the pro
 If you are interested in the project, I can add you as a member of the organization, open a GitHub issue and we can discuss.
 * Accepted Applications
 Others can be discussed in Github Discussions.
-| Adobe          | Photoshop | Illustrator |
-| OpenCreativity | GIMP      | Darktable   |
+| Adobe          | Photoshop | Lightroom |
+| OpenCreativity | GIMP      | Darktable |
 * Footnotes
 [fn:1]: [[https:https://www.forbes.com/sites/adriankingsleyhughes/2013/05/09/adobes-creative-cloud-move-causes-outcry-and-confusion/?sh=74de7df26925][Adobe's Creative Cloud Move Causes Outcry And Confusion]]
 interoperability
