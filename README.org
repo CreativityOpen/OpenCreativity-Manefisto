@@ -40,7 +40,7 @@ Once we have written all the scripts we can move to creating (and mantaining) pl
 If the previous phases aren't enough, we can then fork and have small necessary changes to achieve our goals like a consistent UI.
 * How to help
 ** Donate
-You can donate here:
+I would really appreciate donations, it would help me spend more time on time on the project, you can donate here:
 - Liberapay: https://liberapay.com/OpenCreativity
 - Buymeacoffee: https://www.buymeacoffee.com/schola
 ** Volunteering
