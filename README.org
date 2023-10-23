@@ -1,5 +1,5 @@
 * What is OpenCreativity? :noexport:
-OpenCreativity sole goal is to be the interoperability layer between creative free & open source applications, Unlike Adobe where there is cohesion between applications, in FOSS applications, there is a lack of interoperability that's holding back the applications, OpenCreativity goal is to tackle this problem.
+OpenCreativity's sole goal is to be the interoperability layer between creative free & open source applications, Unlike Adobe where there is cohesion between applications, in FOSS applications, there is a lack of interoperability that's holding back the applications, OpenCreativity goal is to tackle this problem.
 * Table of contents :TOC_3:
 - [[#the-adobe-problem][The Adobe problem]]
     - [[#introduction][Introduction]]
@@ -31,7 +31,7 @@ As a company, Adobe holds multiple software patents for application specific fea
 *** Anti-patterns
 Adobe has been accused of tricking customers into a 12 month month contract[fn:9], Adobe enrolling users into the subscription model using the free trial[fn:10], charging a subscription cancellation fee[fn:11], etc[fn:12].
 * The Solution
-As i have said before OpenCreativity sole goal is to be the interoperability layer between creative free & open source applications, here is a roadmap on how we can do that.
+As i have said before OpenCreativity's sole goal is to be the interoperability layer between creative free & open source applications, here is a roadmap on how we can do that.
 ** Phase 1, reproducible scripts
 Reproducible scripts are scripts using Nix so that we don't have the problem of "It works in my machine", therefore simplifying the distribution and connecting applications that are already interoperable (with plugins) like Darktable with GIMP.
 ** Phase 2, Interopebility plugins
