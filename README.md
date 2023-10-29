@@ -128,11 +128,9 @@ Accepted Applications
 
 Others can be discussed in Github Discussions.
 
-|----------------------------------------|
-| Adobe            Photoshop   Lightroom |
-| OpenCreativity   GIMP        Darktable |
-  ---------------- ----------- -----------
-
+| Adobe          | Photoshop | Lightroom |
+| OpenCreativity | GIMP      | Darktable |
+	
 Footnotes
 =========
 
