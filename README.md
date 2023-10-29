@@ -1,4 +1,4 @@
-Table of contents [[TOC\_3]{.smallcaps}]{.tag tag-name="TOC_3"} {#table-of-contents}
+Table of contents
 ===============================================================
 
 -   [The Adobe problem](#the-adobe-problem)
@@ -71,13 +71,10 @@ As i have said before OpenCreativity\'s sole goal is to be the
 interoperability layer between creative free & open source applications,
 here is a roadmap on how we can do that.
 
-Phase 1, reproducible scripts
+Phase 1, GUI launcher
 -----------------------------
 
-Reproducible scripts are scripts using Nix so that we don\'t have the
-problem of \"It works in my machine\", therefore simplifying the
-distribution and connecting applications that are already interoperable
-(with plugins) like Darktable with GIMP.
+A GUI launcher similar to Steam but only for creative applications where you can download or delete a program inside of it, thereby simplifying the user experience for package management.
 
 Phase 2, Interopebility plugins
 -------------------------------
@@ -145,58 +142,58 @@ Extra links
 -   Deadobe: <https://github.com/scholablade/Deadobe>
 -   Adobe-related video: <https://www.youtube.com/watch?v=jIM6dN3ogbk>
 -   Adobe Deceptive patterns:
-    <https://www.deceptive.design/hall-of-shame>?\*=adobe
+    <https://www.deceptive.design/hall-of-shame>
 
 [^1]: ``` {.example}
-    [[https:https://www.forbes.com/sites/adriankingsleyhughes/2013/05/09/adobes-creative-cloud-move-causes-outcry-and-confusion/?sh=74de7df26925][Adobe's Creative Cloud Move Causes Outcry And Confusion]]
+ [Adobe's Creative Cloud Move Causes Outcry And Confusion](https:https://www.forbes.com/sites/adriankingsleyhughes/2013/05/09/adobes-creative-cloud-move-causes-outcry-and-confusion/?sh=74de7df26925)
     ```
 
     interoperability
 
 [^2]: ``` {.example}
-    [[https:https://wedesignstudios.com/why-adobes-subscription-only-plan-sucks][Why Adobe's Subscription-Only Plan Sucks]]
+    [Why Adobe's Subscription-Only Plan Sucks](https:https://wedesignstudios.com/why-adobes-subscription-only-plan-sucks)
     ```
 
 [^3]: ``` {.example}
-    [[https:https://wedesignstudios.com/why-adobes-subscription-only-plan-sucks][Why Adobe's Subscription-Only Plan Sucks]]
+    [Why Adobe's Subscription-Only Plan Sucks](https:https://wedesignstudios.com/why-adobes-subscription-only-plan-sucks)
     ```
 
 [^4]: ``` {.example}
-    [[https:https://www.columbian.com/news/2013/jun/02/adobe-casts-cloud-on-budgets/][Adobe casts cloud on budgets]]
+    [Adobe casts cloud on budgets](https:https://www.columbian.com/news/2013/jun/02/adobe-casts-cloud-on-budgets/)
     ```
 
 [^5]: ``` {.example}
-    [[https:https://zipdo.co/statistics/adobe-photoshop/][Essential Adobe Photoshop Statistics in 2023]]
+    [Essential Adobe Photoshop Statistics in 2023](https:https://zipdo.co/statistics/adobe-photoshop/)
     ```
 
 [^6]: ``` {.example}
-    [[https:https://www.booknetcanada.ca/blog/2017/12/6/this-is-fine-on-the-cost-of-creative-cloud][‘This is fine’: On the cost of Creative Cloud]]
+    [‘This is fine’: On the cost of Creative Cloud](https:https://www.booknetcanada.ca/blog/2017/12/6/this-is-fine-on-the-cost-of-creative-cloud)
     ```
 
 [^7]: ``` {.example}
-    [[https:https://www.bloomberg.com/news/articles/2022-09-15/adobe-is-said-to-near-deal-to-buy-online-design-startup-figma][Adobe Near Deal for Online Design Startup Figma, Sources Say]]
+    [Adobe Near Deal for Online Design Startup Figma, Sources Say](https:https://www.bloomberg.com/news/articles/2022-09-15/adobe-is-said-to-near-deal-to-buy-online-design-startup-figma)
     ```
 
 [^8]: ``` {.example}
-    [[https:https://patents.google.com/patent/US9299004B2/en?oq=US9299004B2 ][Image foreground detection]]
+    [Image foreground detection](https:https://patents.google.com/patent/US9299004B2/en?oq=US9299004B2)
     ```
 
 [^9]: ``` {.example}
-    [[https:https://patents.google.com/patent/US10061496B2/en?oq=US10061496b2][Snapping of object features via dragging]]
+    [Snapping of object features via dragging](https:https://patents.google.com/patent/US10061496B2/en?oq=US10061496b2)
     ```
 
 [^10]: ``` {.example}
-     [[https:https://twitter.com/darkpatterns/status/1489901640777973768#m][How Adobe tricks users into a 12 month contract.]]
+     [How Adobe tricks users into a 12 month contract.](https:https://twitter.com/darkpatterns/status/1489901640777973768#m)
     ```
 
 [^11]: ``` {.example}
-    [[https:https://nitter.net/MikeCalcagno/status/1676525562930806788#m][Adobe enrolls users into the subscription model using free trial]]
+    [Adobe enrolls users into the subscription model using free trial](https:https://nitter.net/MikeCalcagno/status/1676525562930806788#)
     ```
 
 [^12]: ``` {.example}
-    [[https:https://web.archive.org/web/20230227031707/https://twitter.com/MRDADDGUY/status/1381628427246039045][Adobe charges subscription cancellation fee]]
+    [Adobe charges subscription cancellation fee](https:https://web.archive.org/web/20230227031707/https://twitter.com/MRDADDGUY/status/1381628427246039045)
     ```
 
 [^13]: ``` {.example}
-    [[https:https://nitter.net/cabel/status/1552409998684086273#m][Adobe interupts users with large pop-up ad they press "Save" in Adobe illustrator, a product they have already paid for.]] 
+    [Adobe interupts users with large pop-up ad they press "Save" in Adobe illustrator, a product they have already paid for.](https:https://nitter.net/cabel/status/1552409998684086273#m)
     ```
